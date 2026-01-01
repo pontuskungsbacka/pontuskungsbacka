@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=004D4D&width=435&lines=Welcome+to+my+profile;I'm+Pontus+Johansson+and+I+am+a...;Developer+in+AI+and+machine+learning;Student+%40+IT-H%C3%B6gskolan+Gothenburg;and+I+am+aspiring+to+become+a...;Data+scientist+%7C+Data+Engineer;AI+Engineer+%7C+AI+specialist;Check+out+my+profile+and...;Let's+connect!)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on buildning my github README.md and github profile
+- 🌱 I’m currently learning Statistics
+- 📫 How to reach me:
+
+- 😄 Pronouns: He/him 
+
+<span style="color: #004D4DFF"> Work in progress </span>
+
+<details>
+<summary>Education</summary>
+<br>
+Here is my education
+</details>
+<details>
+<summary>My favorite tools</summary>
+<br>
+Here i out my skills and tools I use.
+</details>
 <!--
 **pontuskungsbacka/pontuskungsbacka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

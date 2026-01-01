@@ -4,14 +4,13 @@
 
 - 🔭 I’m currently working on buildning my github README.md and github profile
 - 🌱 I’m currently learning Statistics
-- 📫 How to reach me:
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&color=%23004d4d&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpontuskungsbacka)](https://www.linkedin.com/in/pontuskungsbacka)
-[![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23004d4d&link=https%3A%2F%2Fgithub.com%2Fpontuskungsbacka)](https://github.com/pontuskungsbacka)
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&color=%23004d4d&link=mailto%3Apontuskungsbacka%40gmail.com)](mailto:pontuskungsbacka@gmail.com)
-[![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&size=96&color=%23004d4d&link=mailto%3Apontus.johansson%40iths.se)](mailto:pontus.johansson@iths.se)
+- 📫 How to reach me: <br/>
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=50&color=%23004d4d&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpontuskungsbacka)](https://www.linkedin.com/in/pontuskungsbacka)
+[![github](https://www.readmecodegen.com/api/social-icon?name=github&size=50&color=%23004d4d&link=https%3A%2F%2Fgithub.com%2Fpontuskungsbacka)](https://github.com/pontuskungsbacka)
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=50&color=%23004d4d&link=mailto%3Apontuskungsbacka%40gmail.com)](mailto:pontuskungsbacka@gmail.com)
+[![microsoft](https://www.readmecodegen.com/api/social-icon?name=microsoft&size=50&color=%23004d4d&link=mailto%3Apontus.johansson%40iths.se)](mailto:pontus.johansson@iths.se)
 - 😄 Pronouns: He/him 
 
-<span style="color: #004D4DFF"> Work in progress </span>
 
 <details>
 <summary>Education</summary>
